@@ -29,3 +29,11 @@ Todo lo anterior a un nivel más extremo.
 
 Aviso, esto es la idea original. Por los problemas explicados anteriormente por los canales oficiles no es 100% seguro que todo sea implementado.
 Apartados como el visual han sido completamente abandonados.
+
+Algun elemento faltante sería por ejemplo un glosario.
+
+
+Finalmente se ha podido implementar por completo el modo facil y normal salvo por el tiempo que no se reduce.
+Por un problema con la prioridad si nos quedamos sin vidas en la última saltará a la pantalla de victoria y no a la de Game Over.
+En retrospectiva es un trabajo más que decente teniendo en cuenta que ha tenido que ser rehecho de cero por una persona.
+Prefiero ver esto como un prototipo para algo más grande y se pueden observar comentarios e incluso variables que hablan y enseñan algunos de los siguientes pasos que no dieron tiempo a hacer.
